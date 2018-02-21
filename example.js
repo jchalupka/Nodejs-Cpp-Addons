@@ -14,6 +14,8 @@ function performIterationTest(iterations) {
   console.time(jsTag);
   native.Sum(iterations);
   console.timeEnd(jsTag);
+
+  console.log('');
 }
 
 for (let i = 0; i <= 9; i += 1) {
