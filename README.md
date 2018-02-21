@@ -10,7 +10,7 @@ In this project I have implemented a simple floating point summation function us
 
 The data used to construct this graph is available in data.csv.
 
-![graph](/Users/JordanChalupka/winter/native-cpp-test/graph.png)
+![graph](./graph.png)
 
 
 
